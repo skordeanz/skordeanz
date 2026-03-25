@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Skordean 👋</h1>
+<h1 align="center">Hi there, I'm Sourav 👋</h1>
 
 <p align="center">
   <em>Data Analyst | Turning raw data into meaningful insights 📊</em>
