@@ -115,7 +115,7 @@
 - Excel tips and tricks for data analysis
 
 ---
-
+<!--
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -129,7 +129,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=skordeanz&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
+-->
 ---
 
 ## 🗺️ Data Analyst Roadmap Progress
@@ -138,7 +138,7 @@
 ✅ Excel (Data Analysis & Pivot Tables)
 ✅ SQL (Queries, Joins, Aggregations)
 ✅ Power BI (Reports & Dashboards)
-🔄 Python (Pandas, NumPy, Matplotlib) — In Progress
+✅ Python (Pandas, NumPy, Matplotlib) — In Progress
 🔄 Statistics & Probability — In Progress
 🔄 AI/ML Tools Integration — Learning
 ⬜ Cloud Platforms (Azure / GCP)
