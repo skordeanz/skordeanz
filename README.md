@@ -21,7 +21,7 @@
 
 ## About Me
 
-B.Com Honours graduate with CA Foundation clearance, now transitioning into data analytics with a strong commerce and finance foundation. Completed DataCamp's Data Analyst program and applied those skills to build end-to-end analytics projects — from SQL data cleaning to Power BI dashboards that surface real business insights. I thrive on turning messy datasets into clear, actionable narratives, and I'm passionate about building open-source tools that make analytics accessible to others. Currently focused on creating portfolio projects that demonstrate real-world problem solving across retail, revenue risk, and credit analysis domains.
+I like turning ideas into projects — whether it's analyzing messy datasets, building dashboards that actually tell a story, or vibecoding something new just for fun. When I'm not wrangling data, you'll probably find me playing chess or exploring open-source tools. Always curious, always building.
 
 ---
 
