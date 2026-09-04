@@ -9,11 +9,9 @@
   <a href="https://linkedin.com/in/skordean">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  &nbsp;
   <a href="mailto:souravv.works@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  &nbsp;
   <a href="https://github.com/skordeanz">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
   </a>
@@ -23,9 +21,7 @@
 
 ## About Me
 
-I'm a Data Analyst with hands-on experience in **SQL, Python, Power BI, and Excel** — building the pipelines, dashboards, and reports that business teams actually rely on. I've worked across consumer analytics, revenue risk analysis, and credit portfolio monitoring — delivering measurable impact through end-to-end data workflows.
-
-I work best when the problem is messy and the stakes are real: owning the full pipeline from raw data to business recommendation, not just building charts.
+B.Com Honours graduate with CA Foundation clearance, now transitioning into data analytics with a strong commerce and finance foundation. Completed DataCamp's Data Analyst program and applied those skills to build end-to-end analytics projects — from SQL data cleaning to Power BI dashboards that surface real business insights. I thrive on turning messy datasets into clear, actionable narratives, and I'm passionate about building open-source tools that make analytics accessible to others. Currently focused on creating portfolio projects that demonstrate real-world problem solving across retail, revenue risk, and credit analysis domains.
 
 ---
 
@@ -80,22 +76,6 @@ Diagnosed profit erosion using Pareto concentration analysis — identified whic
 Analyzed 38,600+ loan records to quantify charge-off exposure and surface portfolio-level risk patterns. Built KPI dashboards tracking loan performance, default rates, and risk-tier breakdowns — designed for a non-technical lending audience.
 
 [View Repository →](https://github.com/skordeanz/credit-risk-monitoring)
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=skordeanz&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skordeanz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=skordeanz&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
 
 ---
 
