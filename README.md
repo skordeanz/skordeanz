@@ -1,8 +1,7 @@
 <h1 align="center">Hey, I'm Sourav 👋</h1>
 
 <p align="center">
-  <i>Data analyst by day, creative builder by nature.</i><br/>
-  SQL · Python · Power BI · Excel
+  <i>I find stories in messy data and beauty in simple ideas.</i>
 </p>
 
 <p align="center">
@@ -13,20 +12,16 @@
 
 ---
 
-I turn messy data into clear stories, useful dashboards, and the occasional fun experiment.
+I build things that make people pause, understand, and maybe see a problem differently.
 
-When I'm not analyzing data, I'm probably playing chess, exploring open source, or vibecoding something new.
+Sometimes that's a dashboard. Sometimes it's a data project. Sometimes it's just an idea I felt like bringing to life.
 
-### Tools I like
+### Selected work
 
-`SQL` `Python` `Pandas` `Power BI` `Excel` `Git`
-
-### A few things I've built
-
-- 🛒 [Consumer Sentiment Intelligence](https://github.com/skordeanz/consumer-sentiment-intelligence) — reviews, NLP, and product health scoring
-- 📉 [Revenue Concentration Risk](https://github.com/skordeanz/revenue-concentration-risk) — Pareto analysis and Power BI storytelling
-- 🏦 [Credit Risk Monitoring](https://github.com/skordeanz/credit-risk-monitoring) — loan performance and risk dashboards
+- 🛒 [Consumer Sentiment Intelligence](https://github.com/skordeanz/consumer-sentiment-intelligence)
+- 📉 [Revenue Concentration Risk](https://github.com/skordeanz/revenue-concentration-risk)
+- 🏦 [Credit Risk Monitoring](https://github.com/skordeanz/credit-risk-monitoring)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=skordeanz&color=2986CC&style=flat-square&label=profile+views" alt="Profile views"/>
+  <i>Always curious. Always making.</i>
 </p>
